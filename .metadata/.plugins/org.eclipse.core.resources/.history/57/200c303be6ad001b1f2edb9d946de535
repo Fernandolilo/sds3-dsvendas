@@ -1,0 +1,5 @@
+package com.systempro.dsvendas.config;
+
+public class SecurityConfig {
+
+}

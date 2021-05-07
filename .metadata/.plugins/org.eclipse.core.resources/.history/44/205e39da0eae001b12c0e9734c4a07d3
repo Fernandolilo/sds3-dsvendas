@@ -1,0 +1,5 @@
+package com.systempro.dsvendas.repositories;
+
+public class Sale {
+
+}
